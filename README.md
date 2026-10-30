@@ -41,7 +41,6 @@ I built the **complete custom user interface of TELS**: the learner site (LMS), 
 |---|---|
 | 🎨 **Ready-made platform templates** (Native, Template A, Template B) | A new subscriber picks a template and brands it. No custom development per customer |
 | 🧩 **No-code theming with design tokens** | Admins change colours, fonts, sizes and every component from the admin panel ([details](https://github.com/sonukumarsingh01/openedx-design-token-theming)) |
-| ✍️ **AI Course Copilot in Studio** | Course creators build a course, its outline, assessments, exams and certificates, plus an AI intro video, by chatting with AI |
 | 🤖 **TELS AI assistant** | AI help for learners and admins in every app ([details](https://github.com/sonukumarsingh01/tels-ai-openedx-assistant)) |
 | 📅 **Instructor dashboard** | Calendar, assignments, widgets and graphs: an instructor's whole workload in one place |
 | 🌐 **Multilingual public marketing website** | Each customer gets a branded landing site connected to live course data |
@@ -64,7 +63,7 @@ I built the **complete custom user interface of TELS**: the learner site (LMS), 
           ┌──────────────────────────── TELS ────────────────────────────┐
  Learner ─┤  Learning · Dashboard · Profile · Account · Discussions      │
           │  Public marketing site (multilingual)                        │
- Teacher ─┤  Studio (Authoring) + AI Course Copilot + Instructor dashboard│
+ Teacher ─┤  Studio (Authoring) + AI Assistant + Instructor dashboard     │
           │  Gradebook · ORA Grading · Communications                    │
           ├───────────────────────────────────────────────────────────────┤
           │  Shared header/footer (Tutor plugin) · Design tokens · Banners │
