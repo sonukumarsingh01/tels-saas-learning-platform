@@ -4,7 +4,7 @@
 
 ### A subscription SaaS learning platform built on Open edX
 
-**Product owner:** TitanEd (about the company: [Open edX marketplace listing](https://openedx.org/marketplace/titaned/)) &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd &nbsp;·&nbsp; **Aug 2025 – Present**
+**Product owner:** TitanEd (about the company: [Open edX marketplace listing](https://openedx.org/marketplace/titaned/)) &nbsp;·&nbsp; **My role:** Software Engineer at TitanEd &nbsp;·&nbsp; **Aug 2025 – Present**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -80,13 +80,13 @@ As part of the TitanEd team, I worked on the **custom user interface of TELS**: 
 
 ## 👤 My role
 
-Frontend Engineer on the TELS team: worked on the custom apps, templates and shared components, delivered features from
+Software Engineer on the TELS team: worked on the custom apps, templates and shared components, delivered features from
 design to production with the backend and product teams, and helped with Open edX upgrades. About 140 pull requests on this product.
 
 ---
 
 <div align="center">
 
-**Sonu Kumar** · Frontend Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
+**Sonu Kumar** · Software Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
 
 </div>
