@@ -4,7 +4,7 @@
 
 ### A subscription SaaS learning platform built on Open edX
 
-**Product owner:** TitanEd (about the company: [Open edX marketplace listing](https://openedx.org/marketplace/titaned/)) &nbsp;·&nbsp; **My role:** Frontend Engineer (owner of the platform UI) &nbsp;·&nbsp; **Aug 2025 – Present**
+**Product owner:** TitanEd (about the company: [Open edX marketplace listing](https://openedx.org/marketplace/titaned/)) &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd &nbsp;·&nbsp; **Aug 2025 – Present**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -16,7 +16,7 @@
 </div>
 
 > **Note:** TELS is a commercial product and its source code is private. This repository is a **project showcase**: it explains
-> the business problem, what I delivered and how it was built. It contains no company code.
+> the business problem, my contribution and how it was built. It contains no company code.
 
 > 🔗 **About the links:** client links go to the **client's own official website**, for reference only. Those sites were **not built by me**. My work is the private learning platform described below.
 
@@ -32,9 +32,9 @@ open-source LMS behind edX.org, but standard Open edX:
 - has no AI
 - needed weeks of custom frontend work for every new customer
 
-## ✅ What I delivered
+## ✅ My contribution
 
-I built the **complete custom user interface of TELS**: the learner site (LMS), the course-authoring site (Studio/CMS) and all
+As part of the TitanEd team, I worked on the **custom user interface of TELS**: the learner site (LMS), the course-authoring site (Studio/CMS) and all
 **11 Open edX micro-frontend apps**. I also added features that standard Open edX doesn't have.
 
 | Capability | What it does for the business |
@@ -80,8 +80,8 @@ I built the **complete custom user interface of TELS**: the learner site (LMS), 
 
 ## 👤 My role
 
-Frontend owner of the TELS user interface: architecture of the custom apps, templates and shared components; feature delivery
-from design to production; Open edX upgrades. About 140 pull requests on this product.
+Frontend Engineer on the TELS team: worked on the custom apps, templates and shared components, delivered features from
+design to production with the backend and product teams, and helped with Open edX upgrades. About 140 pull requests on this product.
 
 ---
 
